@@ -6,6 +6,9 @@ It comes adapted for several popular web frameworks and technologies:
 
 2. [Grails](http://grails.org) (https://github.com/prokhor-ozornin/Catharsis.Grails.Widgets)
 
+3. PHP 5 (coming soon)
+
+***
 
 As of the latest version, the following areas are covered :
 
@@ -32,17 +35,30 @@ As of the latest version, the following areas are covered :
 * Google Analytics
 * Google "+1" Button
 
+[Gravatar](http://gravatar.org)
+* Avatar image URL
+* User profile URL
+
 [IntenseDebate](http://intensedebate.com)
 * Comments
 * Comments Count Hyperlink
 
+[LiveJournal](http://livejournal.com)
+* Like Button
+* Repost Button
+
 [Mail.ru](http://mail.ru)
+* Faces widget
+* Groups widget
 * ICQ On-Site
 * Like Button
 * Embedded Video
 
 [RuTube](http://rutube.ru)
 * Embedded Video
+
+[SoundCloud](http://soundcloud.com)
+* Profile Icon
 
 [Surfingbird](http://surfingbird.com)
 * Like Button
@@ -79,3 +95,11 @@ As of the latest version, the following areas are covered :
 
 [VideoJS player](http://www.videojs.com)
 * Media Player
+
+***
+
+This project requires your support. Please donate !
+
+[![Image](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=APHM8MU9N76V8 "Donate")
+
+***
