@@ -6,7 +6,7 @@ It comes adapted for several popular web frameworks and technologies:
 
 2. [Grails](http://grails.org) (https://github.com/prokhor-ozornin/Catharsis.Grails.Widgets)
 
-3. [PHP 5](https://github.com/prokhor-ozornin/Catharsis.PHP.Web.Widgets)
+3. [PHP 5](http://php.net) (https://github.com/prokhor-ozornin/Catharsis.PHP.Web.Widgets)
 
 ***
 
