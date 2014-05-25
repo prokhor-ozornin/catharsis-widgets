@@ -8,6 +8,8 @@ It comes adapted for several popular web frameworks and technologies:
 
 3. [PHP 5](http://php.net) (https://github.com/prokhor-ozornin/Catharsis.PHP.Web.Widgets)
 
+4. [JavaScript](https://github.com/prokhor-ozornin/Catharsis.JS.Web.Widgets)
+
 ***
 
 As of the latest version, the following areas are covered :
